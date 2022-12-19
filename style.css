@@ -1,0 +1,37 @@
+body{
+    background: rgb(255, 255, 255);
+}
+section{
+    background: white;
+}
+header{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+    color: #2D3142;
+}
+p{
+    color: black;
+}
+h2{
+    color:#4F5D75
+}
+.hotpink-header {
+    color:rgb(217, 26, 185);
+}
+#aqua-footer {
+    background-color:#BFC0C0;
+}
+a{
+    color:#EF8354;
+}
+nav a {
+    color: #EF8354;
+}
+html{
+    scroll-behavior: smooth;
+
+}
+.food-menu {
+color: greenyellow;
+}
